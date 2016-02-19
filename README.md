@@ -5,3 +5,4 @@ Unofficial Python companion code and examples for Introduction to Algorithms: Co
 ## Contents
 
 * Chapter Two : Getting Started - chapter_2.ipynb
+* Chapter Five : Probabilistic Analysis - chapter_5.ipynb
